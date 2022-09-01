@@ -1,7 +1,7 @@
 # edgeengine-embedded-os
 edgeEngine for Embedded Operating Systems (QNX)
 
-About:
+# About:
 In this document you will learn how to install and run edgeEngine on a QNX system. You will optionally be able to run 1 or 2 instances of edgeEngine running on different ports. 
 
 # Prerequisite:
