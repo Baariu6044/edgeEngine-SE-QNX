@@ -1,4 +1,4 @@
-# edgeengine-embedded-os
+# edgeengine-embedded-qnx
 edgeEngine for Embedded Operating Systems (QNX)
 
 # About:
