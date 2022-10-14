@@ -29,7 +29,7 @@ In this document you will learn how to install and run edgeEngine on a QNX syste
 
 2. Open file explorer and view the files on SD-Card
 
-3. Download qnx-two-edge-instances.zip 
+3. Download release [HERE](https://github.com/edgeEngine/edgeEngine-SE-QNX/releases) 
 
 4. Unzip the package 
 
